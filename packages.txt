@@ -1,3 +1,5 @@
 tesseract-ocr
+tesseract-ocr-mya
 libtesseract-dev
 poppler-utils
+
